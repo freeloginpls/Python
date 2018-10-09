@@ -1,6 +1,13 @@
 # "schludny kod pod "raw""
 # ps mam troche pytań
 
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 10 00:41:36 2018
+
+@author: HP
+"""
+
 def sred(n):
     return(sum(n)/len(n))
  
