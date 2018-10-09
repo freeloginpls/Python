@@ -1,3 +1,5 @@
+# "schludny kod pod "raw""
+
 
 def sred(n):
     return(sum(n)/len(n))
