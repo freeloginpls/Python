@@ -1,5 +1,5 @@
 # "schludny kod pod "raw""
-
+# ps mam troche pytań
 
 def sred(n):
     return(sum(n)/len(n))
